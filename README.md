@@ -6,7 +6,7 @@ Welcome to the **LetsCode** platform! Below are the repository links for differe
 
 ### 1. **Letscode Problem Service**
 - **Description**: It contain logic for the admin to create, read, update, delete the problems.
-- **Repository Link**: [Admin Service](https://github.com/Harshjain09012004/letscode-problem-service)
+- **Repository Link**: [Problem Service](https://github.com/Harshjain09012004/letscode-problem-service)
 
 ### 2. **Letscode Evaluator Service**
 - **Description**: It contain the logic for evaluating the submissions of user against the testcases inside the docker container.
