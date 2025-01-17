@@ -11,6 +11,10 @@ Welcome to the **LetsCode** platform! Below are the repository links for differe
 ### 2. **Letscode Evaluator Service**
 - **Description**: It contain the logic for evaluating the submissions of user against the testcases inside the docker container.
 - **Repository Link**: [Evaluator Service](https://github.com/Harshjain09012004/letscode-evaluator-service)
+
+### 2. **Letscode Submission Service**
+- **Description**: It contain the logic for handling the submissions of user's solutions.
+- **Repository Link**: [Submission Service](https://github.com/Harshjain09012004/letscode-submission-service)
 ---
 
 ## 💻 Getting Started
