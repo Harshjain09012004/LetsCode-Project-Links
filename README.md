@@ -15,6 +15,10 @@ Welcome to the **LetsCode** platform! Below are the repository links for differe
 ### 3. **Letscode Submission Service**
 - **Description**: It contain the logic for handling the submissions of user's solutions.
 - **Repository Link**: [Submission Service](https://github.com/Harshjain09012004/letscode-submission-service)
+
+### 3. **Letscode WebSocket Service**
+- **Description**: It handles socket connection of client with submission service.
+- **Repository Link**: [WebSocket Service](https://github.com/Harshjain09012004/letscode-websocket-service)
 ---
 
 ## 💻 Getting Started
