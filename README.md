@@ -1,24 +1,25 @@
-# LetsCode - Project Links
+# LetsCode - Project Links  
 
-Welcome to the **LetsCode** platform! Below are the repository links for different services and components of the application. Feel free to explore and contribute.
+Welcome to **LetsCode**, a scalable and efficient platform for coding problem-solving and evaluation. Below are the repository links for different microservices and components of the application. Contributions are welcome!  
 
-## 🛠️ Repositories
+## 🛠️ Repositories  
 
-### 1. **Letscode Problem Service**
-- **Description**: It contain logic for the admin to create, read, update, delete the problems.
-- **Repository Link**: [Problem Service](https://github.com/Harshjain09012004/letscode-problem-service)
+### 1. **LetsCode Problem Service**  
+- **Description**: Manages problem creation, retrieval, updating, and deletion for administrators.  
+- **Repository Link**: [Problem Service](https://github.com/Harshjain09012004/letscode-problem-service)  
 
-### 2. **Letscode Evaluator Service**
-- **Description**: It contain the logic for evaluating the submissions of user against the testcases inside the docker container.
-- **Repository Link**: [Evaluator Service](https://github.com/Harshjain09012004/letscode-evaluator-service)
+### 2. **LetsCode Evaluator Service**  
+- **Description**: Executes and evaluates user code submissions against predefined test cases inside a secure Docker container.  
+- **Repository Link**: [Evaluator Service](https://github.com/Harshjain09012004/letscode-evaluator-service)  
 
-### 3. **Letscode Submission Service**
-- **Description**: It contain the logic for handling the submissions of user's solutions.
-- **Repository Link**: [Submission Service](https://github.com/Harshjain09012004/letscode-submission-service)
+### 3. **LetsCode Submission Service**  
+- **Description**: Handles user code submissions, ensuring proper processing and management.  
+- **Repository Link**: [Submission Service](https://github.com/Harshjain09012004/letscode-submission-service)  
 
-### 4. **Letscode WebSocket Service**
-- **Description**: It handles socket connection of client with submission service.
-- **Repository Link**: [WebSocket Service](https://github.com/Harshjain09012004/letscode-websocket-service)
+### 4. **LetsCode WebSocket Service**  
+- **Description**: Manages real-time WebSocket connections between clients and the submission service for seamless communication.  
+- **Repository Link**: [WebSocket Service](https://github.com/Harshjain09012004/letscode-websocket-service)  
+
 ---
 
 # 💻 Project Architecture
