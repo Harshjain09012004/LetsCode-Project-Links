@@ -21,7 +21,8 @@ Welcome to the **LetsCode** platform! Below are the repository links for differe
 - **Repository Link**: [WebSocket Service](https://github.com/Harshjain09012004/letscode-websocket-service)
 ---
 
-## 💻 Getting Started
-To get started with the LetsCode project, visit the individual repositories for setup instructions and additional details.
+# 💻 Project Architecture
+![letscode-architecture](https://github.com/user-attachments/assets/23f9a4c3-057a-4276-8d4c-0b5c766d2d9e)
+
 
 ---
